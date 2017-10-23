@@ -215,9 +215,9 @@
 				</table>
 			</div>
 		</div>
-		<div class="row centered lower shaded-background">  
+		<div class="row centered upper shaded-background">  
 			<div class="col-6">
-				<span class='big-label'>Horno 11</span>
+				<span class='big-label'>Horno 21</span>
 			</div>
 			<div class="col-3">
 				<table border="0" cellpadding="5">
